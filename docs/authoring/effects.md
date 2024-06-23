@@ -3,7 +3,7 @@
 
 Starting in AO 2.8.X, effects are added as an additional layer to the viewport, acting as a temporary overlay.
 
-The content, without any reasonable consideration, is located in two places.<br>
+The content, without any reasonable consideration, is located in two places.
 Default effects can be found in `base/themes/default/effects/` while character-specified effect folders can be found in `base/misc/<effects>/`<br>
 We are still unsure how this was ever considered a good organisation.
 
